@@ -1,0 +1,9 @@
+R:\Programming\Times table\Times table\bin\Debug\Times table.exe.config
+R:\Programming\Times table\Times table\obj\Debug\Times table.csprojResolveAssemblyReference.cache
+R:\Programming\Times table\Times table\obj\Debug\Times_table.frm_timesTable.resources
+R:\Programming\Times table\Times table\obj\Debug\Times_table.Properties.Resources.resources
+R:\Programming\Times table\Times table\obj\Debug\Times table.csproj.GenerateResource.Cache
+R:\Programming\Times table\Times table\bin\Debug\Times table.exe
+R:\Programming\Times table\Times table\bin\Debug\Times table.pdb
+R:\Programming\Times table\Times table\obj\Debug\Times table.exe
+R:\Programming\Times table\Times table\obj\Debug\Times table.pdb
